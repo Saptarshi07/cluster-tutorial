@@ -1,0 +1,8 @@
+*.ipynb_checkpoints/
+*.DS_store
+*_minted-main
+*.aux
+*.log
+.vscode/
+.idea/
+.*.*.sw[o,p]
